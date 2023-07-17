@@ -21,6 +21,6 @@ const verifyAndDelete = (array) => {                        //funcion para chequ
     }
 }
 
-verifyAndDelete (arrayElements3)
+verifyAndDelete (arrayElements3)    
 
 
